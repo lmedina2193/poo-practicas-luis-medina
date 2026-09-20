@@ -1,3 +1,4 @@
+// Practica de sobrecarga realizada por Luis Medina Quispe
 import java.util.HashMap;
 
 public class Curso {
